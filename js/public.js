@@ -1,6 +1,6 @@
 // تسجيل السيرفس ووركر
 if(navigator.serviceWorker) {
-  navigator.serviceWorker.register("../dist/sw.js") ;
+  navigator.serviceWorker.register("../sw.js") ;
 }
 
 // تسجيل السيرفس ووركر
