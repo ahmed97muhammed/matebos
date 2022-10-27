@@ -1,6 +1,6 @@
 // تسجيل السيرفس ووركر
 if(navigator.serviceWorker) {
-  navigator.serviceWorker.register("matebos/sw.js") ;
+  navigator.serviceWorker.register("/sw.js") ;
 }
 
 // تسجيل السيرفس ووركر
