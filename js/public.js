@@ -4,7 +4,7 @@ if(navigator.serviceWorker) {
 }
 
 // تسجيل السيرفس ووركر
-
+console.log(window.location.href);
 
 
 
